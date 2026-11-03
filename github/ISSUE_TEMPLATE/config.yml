@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Get Ichno PRO
+    url: https://ely29.gumroad.com/l/ichno-pro
+    about: Purchase, download and updates
+  - name: Ichno documentation
+    url: https://github.com/Elyh29/ichno/wiki
+    about: How to use every feature
