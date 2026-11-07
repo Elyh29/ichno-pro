@@ -1,6 +1,6 @@
 # Ichno PRO
 
-![Ichno PRO: a technical drawing made from a Blender scene, with balloons, bill of materials and title block](images/pro1.png)
+![Ichno PRO: a technical drawing made from a Blender scene, with balloons, bill of materials and title block](images/ichno-pro-cover-1920x1080.png)
 
 **Ichno PRO** is the extended edition of [Ichno](https://extensions.blender.org/add-ons/ichno/), the Blender add-on that turns a scene into a technical drawing in one click. It contains every feature of the free edition and adds:
 
